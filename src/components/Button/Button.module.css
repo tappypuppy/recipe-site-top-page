@@ -8,6 +8,9 @@
 
 .inner button {
   background-color: #fff;
+  border: 1px solid #2b2a27;
   padding: 18px 60px;
   margin: 60px 0;
+  font-size: 0.875rem;
+  color: #2b2a27;
 }
