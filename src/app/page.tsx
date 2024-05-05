@@ -1,4 +1,5 @@
 import Button from "@/components/Button/Button";
+import Footer from "@/components/Footer/Footer";
 import MainText from "@/components/MainText/MainText";
 import Mainvisual from "@/components/Mainvisual/Mainvisual";
 import Recipe from "@/components/Recipe/Recipe";
@@ -13,6 +14,8 @@ export default function Home() {
         <Recipe />
         <Button />
       </main>
+
+      <Footer />
     </div>
   );
 }
