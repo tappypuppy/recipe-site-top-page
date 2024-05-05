@@ -1,7 +1,12 @@
+import Mainvisual from "@/components/Mainvisual/Mainvisual";
 import Image from "next/image";
 
 export default function Home() {
   return (
-    <div>hello world</div>
+    <div>
+      <main>
+        <Mainvisual />
+      </main>
+    </div>
   );
 }

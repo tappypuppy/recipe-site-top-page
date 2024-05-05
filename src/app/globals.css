@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Arial:wght@400;700&display=swap');
+body {
+    font-family:Helvetica, Arial, Hiragino Sans, Meiryo sans-serif;
+}
+:root {
+  	
+  	/* fonts */
+  	--font-arial: Arial;
+  	
+  	/* font sizes */
+  	--font-size-xs: 0.75rem;
+  	
+  	/* Colors */
+  	--color-white: #fff;
+  	--color-gray: #2b2a27;
+  	
+}
